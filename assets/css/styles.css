@@ -16,6 +16,9 @@ html {
     background-color: #f5f5f5;
     text-align: center;
   }
+  /* .nav-link{
+      font-size:.75rem;
+  } */
   .backToTopLink{
       color: rgb(0, 0, 0);
   }
